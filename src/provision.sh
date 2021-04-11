@@ -34,7 +34,7 @@ echo '################################'
 echo '# Ruby on Rails install        #'
 echo '################################'
 gem install rails
-# $ rails new app
+# $ rails new feedListApp
 # $ cd app
 # $ bundle install
 

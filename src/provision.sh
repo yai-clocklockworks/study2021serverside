@@ -69,3 +69,16 @@ echo '################################'
 # make
 # sudo make install
 # gem install sqlite3 -- --with-sqlite3-include=/opt/sqlite/sqlite3/include --with-sqlite3-lib=/opt/sqlite/sqlite3/lib
+
+echo '################################'
+echo '# AdminLTE install             #'
+echo '################################'
+# sudo npm install bower -g
+# bundle install
+# rails g bower_rails:initialize
+
+echo '################################'
+echo '# webpacker install            #'
+echo '################################'
+# rails webpacker:install
+# rails webpacker:compile
